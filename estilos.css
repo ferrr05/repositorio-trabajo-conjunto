@@ -5,3 +5,4 @@ h1 {color: red;}
 body{background-color: rgb(180, 252, 13);}
   a:link {color: blue;}          
   a:hover{color:rgb(255, 94, 0)}
+  a:visited{color:rgb(255, 255, 255)}
